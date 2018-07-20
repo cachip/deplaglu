@@ -1,11 +1,12 @@
 {
-  "name": "LaGlu",
+  "name": "Laglu",
   "description": "LaGlu",
   "version": "1.0.0",
   "author": "JPL",
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-react-helmet": "next",
+    "gatsby-source-filesystem": "next",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0"
@@ -13,7 +14,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  "license": "Restricted",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
