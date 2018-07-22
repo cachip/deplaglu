@@ -18,6 +18,9 @@ const IndexPage = ( { data }) => (
         
         )}
       </div>
+      <div>
+      <h2><Link to="./page-2">Go back to the homepage</Link></h2>
+      </div>
     </div>
   </Layout>
 )
