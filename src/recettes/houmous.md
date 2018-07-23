@@ -24,6 +24,7 @@ histoire: "L'histoire de cette recette c'est que... c'est la folie, grave bon to
 
 ## Preparation
 todo
+Tout mixer.
 
 ## Cuisson
 Passer au mixeur
