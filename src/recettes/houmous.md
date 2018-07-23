@@ -1,6 +1,6 @@
 ---
-date: "2018-04-03"
-title: "Saumon aux asperges"
+date: "2018-07-23"
+title: "Houmous maison"
 legumessaison: ["n/a"]
 prebiotiques: ["ail"]
 repas: ["plat"]
